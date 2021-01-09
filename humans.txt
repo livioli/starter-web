@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Livio Li liviohh@gmail.com
 
 # THANKS
 
