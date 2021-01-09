@@ -15,3 +15,5 @@ The purpose is to provide simple examples of git repository.
 This is a simple web project.
 
 ## How to contribute
+
+2020 Git.Training.
